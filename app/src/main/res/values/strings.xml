@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MP8FbApp</string>
+    <string name="title_activity_pull">PullActivity</string>
+    <string name="title_activity_push">PushActivity</string>
+</resources>
